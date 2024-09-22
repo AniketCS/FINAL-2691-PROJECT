@@ -1,4 +1,7 @@
-# Geriatric Psychotropic Green Card
+# Psychotropic Medical App 
+
+A medical web application built for Geriatric patients. The app comprises of two interfaces - one for the patients and another for the the doctors to login and enter drugs into a medical database.
+The app intends to support patients in seeking medical guidance for their specific ailments, through authorized information from medical professionals.
 
 
 
